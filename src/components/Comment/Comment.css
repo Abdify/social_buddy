@@ -1,0 +1,21 @@
+.comment{
+    border: 1px solid burlywood;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.comment > h5{
+    margin: 5px;
+    padding: 5px;
+    border-right: 2px solid blueviolet;
+}
+.avatar{
+    height: 50px;
+    width: 50px;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
